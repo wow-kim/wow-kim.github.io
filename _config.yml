@@ -1,14 +1,14 @@
 # Site Settings
 name: WOW | KIM
-title: WoW | KIM
-description: WOWKIM의 블로그
+title: WOW | KIM
+description: 개발도 통계도 잘하고 싶다.
 tags:
   - blog
   - Python
   - ML/DL
   - DB
   - Algorithm
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -18,8 +18,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: gunner654@naver.com
+disqus_username: wow-kim
 
 
 # Social Media Settings
@@ -36,7 +36,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://wow-kim.github.io" # the subpath of your site, e.g. /blog
 url: "https://wow-kim.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"

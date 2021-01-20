@@ -1,11 +1,10 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2020-01-20T22:00:00
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Hello Github 블로그
+subtitle: '며칠동안 끙끙대며 만든'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  github 블로그를 만들었다.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -14,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: WOW-KIM
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
