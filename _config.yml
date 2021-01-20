@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: WoW | Kim
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: WOW | KIM
+title: WoW | KIM
+description: WOWKIM의 블로그
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Python
+  - ML/DL
+  - DB
+  - Algorithm
 show_hero: true
 menu:
   - title: Home
